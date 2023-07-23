@@ -68,7 +68,7 @@
           <TileLayout name="gamelist" itemsize="70,70" inset="8,8,8,8" childpadding="12" vscrollbar="true">
 
           </TileLayout>
-
+          <WebBrowser name="baidubrowser" homepage="https://blog.csdn.net/duisharp" autonavi="true"/>
           <!--<WebBrowser name="baidubrowser"  url="www.baidu.com" autonavi="true"/>-->
         </TabLayout>
        
